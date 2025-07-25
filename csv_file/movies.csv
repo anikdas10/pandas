@@ -1,0 +1,22 @@
+movie_name,director,category,imdb_rating,watched
+Kill Bill Vol. 1,Quentin Tarantino,Action,8.2,Yes
+Pulp Fiction,Quentin Tarantino,Action,8.3,Yes
+Django Unchained,Quentin Tarantino,Action,8.4,No
+Inglourious Basterds,Quentin Tarantino,Action,8.3,Yes
+Avatar,James Cameron,Scifi,7.8,Yes
+Titanic,James Cameron,Drama,7.9,No
+Alien,James Cameron,Scifi,8.4,Yes
+A Beautiful Mind,Ron Howard,Drama,8.2,Yes
+Apollo 13,Ron Howard,Drama,7.7,No
+Armageddon,Michael Bay,Scifi,6.7,Yes
+The Rock,Michael Bay,Action,7.4,Yes
+Transformer,Michael Bay,Action,7.0,Yes
+13 Hours,Michael Bay,Action,7.3,Yes
+The Island,Michael Bay,Scifi,6.8,No
+A Quiet Place,John Krasinski,Horror,7.5,Yes
+Hereditary,Ari Aster,Horror,7.3,Yes
+Midsommar,Ari Aster,Horror,7.1,Yes
+Thor: Love and Thunder,Taika Waititi,Action,6.3,Yes
+Jojo Rabbit,Taika Waititi,Drama,7.9,No
+Boy,Taika Waititi,Drama,7.9,No
+6 Underground,Michael Bay,Action,6.1,?
