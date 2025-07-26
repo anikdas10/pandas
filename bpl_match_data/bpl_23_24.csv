@@ -1,0 +1,47 @@
+season,match_no,date,team_1,team_1_score,team_1_wicket,team_2,team_2_score,team_2_wicket,player_of_match,toss_winner,toss_decision,winner,venue,city,win_by_wickets,win_by_runs,result,umpire_1,umpire_2
+2023/24,1st,Jan 19 2024,Comilla Victorians ,143,6,Durdanto Dhaka,147,5,Shoriful Islam,Durdanto Dhaka,field first,Durdanto Dhaka,SBNCS,Mirpur,5,0,5 wickets,David Millns,Mahfuzur Rahman
+2023/24,2nd,Jan 19 2024,Sylhet Strikers,177,2,Chattogram Challengers,180,3,Najibullah Zadran,Chattogram Challengers,field first,Chattogram Challengers,SBNCS,Mirpur,7,0,7 wickets,Asif Yaqoob,Morshed Ali Khan
+2023/24,3rd,Jan 20 2024,Rangpur Riders,134,9,Fortune Barishal ,138,5,Khaled Ahmed,Fortune Barishal,field first,Fortune Barishal ,SBNCS,Mirpur,5,0,5 wickets,Ali Arman,Asif Yaqoob
+2023/24,4th,Jan 20 2024,Chattogram Challengers,121,10,Khulna Tigers,122,6,Nahidul Islam,Khulna Tigers,field first,Khulna Tigers,SBNCS,Mirpur,4,0,4 wickets,David Millns,Morshed Ali Khan
+2023/24,5th,Jan 22 2024,Durdanto Dhaka,136,8,Chattogram Challengers,137,4,tanzid-hasan,Chattogram Challengers,field first,Chattogram Challengers,SBNCS,Mirpur,6,0,6 wickets,Asif Yaqoob,Muhammad Kamruzzaman
+2023/24,6th,Jan 22 2024,Fortune Barishal ,187,4,Khulna Tigers,188,2,Anamul Haque,Khulna Tigers,field first,Khulna Tigers,SBNCS,Mirpur,8,0,8 wickets,David Millns,Tanvir Ahmed
+2023/24,7th,Jan 23 2024,Sylhet Strikers,120,8,Rangpur Riders,125,6,Azmatullah Omarzai,Rangpur Riders,field first,Rangpur Riders,SBNCS,Mirpur,4,0,4 wickets,David Millns,Mahfuzur Rahman
+2023/24,8th,Jan 23 2024,Fortune Barishal ,161,9,Comilla Victorians,162,6,Matthew Forde,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,4,0,4 wickets,Asif Yaqoob,Moniruzzaman
+2023/24,9th,Jan 26 2024,Khulna Tigers,160,6,Rangpur Riders,132,10,Dasun Shanaka,Rangpur Riders,field first,Khulna Tigers,SylhetICS,Sylhet,0,28,28 runs,Asif Yaqoob,Muhammad Kamruzzaman
+2023/24,10th,Jan 26 2024,Comilla Victorians ,130,8,Sylhet Strikers,78,10,Al Islam,Sylhet Strikers,field first,Comilla Victorians,SylhetICS,Sylhet,0,52,52 runs,David Millns,Mahfuzur Rahman
+2023/24,11th,Jan 27 2024,Chattogram Challengers,193,4,Fortune Barishal ,183,7,Curtis Campher,Fortune Barishal,field first,Chattogram Challengers,SylhetICS,Sylhet,0,10,10 runs,David Millns,Morshed Ali Khan
+2023/24,12th,Jan 27 2024,Rangpur Riders,183,8,Durdanto Dhaka,104,10,Babar Azam,Durdanto Dhaka,field first,Rangpur Riders,SylhetICS,Sylhet,0,79,79 runs,Asif Yaqoob,Tanvir Ahmed
+2023/24,13th,Jan 29 2024,Sylhet Strikers,137,4,Chattogram Challengers,138,2,Bilal Khan,Sylhet Strikers,bat first,Chattogram Challengers,SylhetICS,Sylhet,8,0,8 wickets,David Millns,Moniruzzaman
+2023/24,14th,Jan 29 2024,Durdanto Dhaka,130,9,Khulna Tigers,131,0,Mohammad Nawaz,Durdanto Dhaka,bat first,Khulna Tigers,SylhetICS,Sylhet,10,0,10wickets,Ali Arman,Asif Yaqoob
+2023/24,15th,Jan 30 2024,Rangpur Riders,165,5,Comilla Victorians,157,6,Azmatullah Omarzai,Rangpur Riders,bat first,Rangpur Riders,SylhetICS,Sylhet,0,8,8 runs,Asif Yaqoob,Muhammad Kamruzzaman
+2023/24,16th,Jan 30 2024,Fortune Barishal ,186,5,Sylhet Strikers,137,10,Mahmudullah,Sylhet Strikers,field first,Fortune Barishal ,SylhetICS,Sylhet,0,49,49 runs,David Millns,Mahfuzur Rahman
+2023/24,17th,Feb 2 2024,Sylhet Strikers,142,8,Durdanto Dhaka,127,9,Richard Ngarava,Durdanto Dhaka,field first,Sylhet Strikers,SylhetICS,Sylhet,0,15,15 runs,Ali Arman,Asif Yaqoob
+2023/24,18th,Feb 2 2024,Chattogram Challengers,72,10,Comilla Victorians,73,3,Tanvir Islam,Comilla Victorians,field first,Comilla Victorians,SylhetICS,Sylhet,7,0,7 wickets,David Millns,Tanvir Ahmed
+2023/24,19th,Feb 3 2024,Khulna Tigers,155,8,Fortune Barishal ,156,5,Shoaib Malik,Fortune Barishal,field first,Fortune Barishal ,SylhetICS,Sylhet,5,0,5 wickets,David Millns,Morshed Ali Khan
+2023/24,20th,Feb 3 2024,Rangpur Riders,162,7,Sylhet Strikers,85,10,Nurul Hasan,Sylhet Strikers,field first,Rangpur Riders,SylhetICS,Sylhet,0,77,77 runs,Asif Yaqoob,Moniruzzaman
+2023/24,21st,Feb 6 2024,Rangpur Riders,175,4,Durdanto Dhaka,115,10,Shakib Al Hasan,Durdanto Dhaka,field first,Rangpur Riders,SBNCS,Mirpur,0,60,60 runs,Asif Yaqoob,Mahfuzur Rahman
+2023/24,22nd,Feb 6 2024,Chattogram Challengers,145,5,Fortune Barishal ,129,8,Shohidul Islam,Fortune Barishal,field first,Chattogram Challengers,SBNCS,Mirpur,0,16,16 runs,David Millns,Morshed Ali Khan
+2023/24,23rd,Feb 7 2024,Comilla Victorians ,149,7,Khulna Tigers,115,10,Aamer Jamal,Comilla Victorians,bat first,Comilla Victorians,SBNCS,Mirpur,0,34,34 runs,David Millns,Moniruzzaman
+2023/24,24th,Feb 7 2024,Durdanto Dhaka,124,8,Sylhet Strikers,129,5,Benny Howell,Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,5,0,5 wickets,Mahfuzur Rahman,Tanvir Ahmed
+2023/24,25th,Feb 9 2024,Khulna Tigers,153,3,Sylhet Strikers,159,5,Harry Tector,Khulna Tigers,bat first,Sylhet Strikers,SBNCS,Mirpur,5,0,5 wickets,Asif Yaqoob,Mahfuzur Rahman
+2023/24,26th,Feb 9 2024,Durdanto Dhaka,175,4,Comilla Victorians,176,6,Towhid Hridoy,Durdanto Dhaka,bat first,Comilla Victorians,SBNCS,Mirpur,4,0,4 wickets,David Millns,Tanvir Ahmed
+2023/24,27th,Feb 10 2024,Rangpur Riders,211,3,Chattogram Challengers,158,6,James Neesham,Rangpur Riders,bat first,Rangpur Riders,SBNCS,Mirpur,0,53,53 runs,Asif Yaqoob,Moniruzzaman
+2023/24,28th,Feb 10 2024,Fortune Barishal ,189,4,Durdanto Dhaka,149,10,Soumya Sarkar,Fortune Barishal,bat first,Fortune Barishal ,SBNCS,Mirpur,0,40,40 runs,David Millns,Mahfuzur Rahman
+2023/24,29th,Feb 13 2024,Comilla Victorians ,239,3,Chattogram Challengers,166,10,Will Jacks,Chattogram Challengers,field first,Comilla Victorians,ZACS,Chattogram,0,73,73 runs,Deighton Butler,Masudur Rahman
+2023/24,30th,Feb 13 2024,Rangpur Riders,219,5,Khulna Tigers,141,10,Imran Tahir,Rangpur Riders,bat first,Rangpur Riders,ZACS,Chattogram,0,78,78 runs,David Millns,Mahfuzur Rahman
+2023/24,31th,Feb 14 2024,Fortune Barishal ,186,6,Durdanto Dhaka,159,8,Tamim Iqbal,Fortune Barishal ,bat first,Fortune Barishal ,ZACS,Chattogram,0,27,27 runs,David Millns,Gazi Sohel
+2023/24,32nd,Feb 14 2024,Khulna Tigers,164,8,Comilla Victorians ,168,3,Towhid Hridoy,Khulna Tigers,bat first,Comilla Victorians ,ZACS,Chattogram,7,0,7 wickets,Deighton Butler,Tanvir Ahmed
+2023/24,33rd,Feb 16 2024,Durdanto Dhaka,128,7,Khulna Tigers,131,5,Wayne Parnell,Durdanto Dhaka,bat first,Khulna Tigers,ZACS,Chattogram,5,0,5 wickets,David Millns,Masudur Rahman
+2023/24,34th,Feb 16 2024,Rangpur Riders,187,8,Chattogram Challengers,169,6,Mahedi Hasan,Rangpur Riders,bat first,Rangpur Riders,ZACS,Chattogram,0,18,18 runs,Deighton Butler,Gazi Sohel
+2023/24,35th,Feb 17 2024,Fortune Barishal,183,6,Sylhet Strikers,165,8,Kyle Mayers,Fortune Barishal ,bat first,Fortune Barishal ,ZACS,Chattogram,0,18,18 runs,Deighton Butler,Tanvir Ahmed
+2023/24,36th,Feb 17 2024,Chattogram Challengers,159,6,Durdanto Dhaka,149,5,Tanzid Hasan,Chattogram Challengers,bat first,Chattogram Challengers,ZACS,Chattogram,0,10,10 runs,David Millns,Mahfuzur Rahman
+2023/24,37th,Feb 19 2024,Sylhet Strikers,177,5,Comilla Victorians ,165,6,Benny Howell,Sylhet Strikers,bat first,Sylhet Strikers,ZACS,Chattogram,0,12,12 runs,Deighton Butler,Gazi Sohel
+2023/24,38th,Feb 19 2024,Fortune Barishal ,151,9,Rangpur Riders,155,9,Abu Hider,Fortune Barishal ,bat first,Rangpur Riders,ZACS,Chattogram,1,0,1 wickets,David Millns,Tanvir Ahmed
+2023/24,39th,Feb 20 2024,Chattogram Challengers,192,4,Khulna Tigers,127,10,Tanzid Hasan,Chattogram Challengers,bat first,Chattogram Challengers,ZACS,Chattogram,0,65,65 runs,David Millns,Morshed Ali Khan
+2023/24,40th,Feb 20 2024,Rangpur Riders,150,10,Comilla Victorians ,151,4,Andre Russell,Comilla Victorians ,field first,Comilla Victorians,ZACS,Chattogram,6,0,6 wickets,Deighton Butler,Masudur Rahman
+2023/24,41st,Feb 23 2024,Comilla Victorians,140,8,Fortune Barishal ,141,4,Tamim Iqbal,Fortune Barishal ,field first,Fortune Barishal ,SBNCS,Mirpur,6,0,6 wickets,Deighton Butler,Gazi Sohel
+2023/24,42nd,Feb 23 2024,Khulna Tigers,128,8,Sylhet Strikers,130,4,Benny Howell,Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,6,0,6 wickets,David Millns,Tanvir Ahmed
+2023/24,Eliminator,Feb 26 2024,Chattogram Challengers,135,9,Fortune Barishal ,136,3,Kyle Mayers,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,7,0,7 wickets,David Millns,Masudur Rahman
+2023/24,Qualifier1,Feb 26 2024,Rangpur Riders,185,6,Comilla Victorians,186,4,Litton Das,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,6,0,6 wickets,Deighton Butler,Sharfuddoula
+2023/24,Qualifier2,Feb 28 2024,Rangpur Riders,149,7,Fortune Barishal ,152,4,Mushfiqur Rahim,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,6,0,6 wickets,Deighton Butler,Gazi Sohel
+2023/24,Final,Mar 01 2024,Comilla Victorians ,154,6,Fortune Barishal ,157,4,Kyle Mayers,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,6,0,6 wickets,David Millns,Sharfuddoula
